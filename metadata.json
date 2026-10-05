@@ -1,0 +1,8 @@
+{
+  "name": "Kolpo.ai",
+  "description": "A premium, agentic AI platform designed for professional workflows with sophisticated, clean, and modern user interfaces.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
